@@ -1,8 +1,8 @@
 ## V1 
 Hardcoded sample PDFs
-       ↓
+       ->
 LangGraph + RAG
-       ↓
+       ->
 Working chatbot
  
 
